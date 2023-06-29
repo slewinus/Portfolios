@@ -1,11 +1,10 @@
 {
   "name": "v1",
-  "description": "Personal Website V1",
+  "description": "Portfolio",
   "version": "1.0.0",
-  "author": "Yashita Namdeo <yashita.namdeo2000@gmail.com>",
+  "author": "Oscar Robert-besle",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/yashitanamdeo/yashitanamdeo.github.io"
+    "type": "git"
   },
   "keywords": [
     "gatsby"

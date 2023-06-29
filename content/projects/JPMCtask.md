@@ -1,6 +1,6 @@
 ---
 date: '2020-05-16'
-title: 'JP Morgan Virtual Internship Project'
+title: 'Bug Portal'
 github: 'https://github.com/yashitanamdeo/JPMC_Virtual-Internship_Task3'
 external: ''
 tech:
@@ -9,7 +9,7 @@ tech:
   - HTML
   - CSS
   - Javascript
-company: 'JPMC'
+company: 'Bugbusters'
 showInProjects: true
 ---
 
