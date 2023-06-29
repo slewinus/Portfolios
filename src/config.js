@@ -1,17 +1,15 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
-  siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
-  siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
+  siteTitle: 'Portfolio',
+  siteDescription: 'Oscar Robert-Besle Passionate about changing the world with technology. ',
+  siteKeywords: '',
   siteUrl: 'https://yashitanamdeo.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Oscar Robert-Besle',
+  location: 'Paris, France',
+  email: 'oscar@dahouse.fr',
+  github: 'https://github.com/slewinus',
   twitterHandle: '@',
   socialMedia: [
     {
@@ -20,19 +18,12 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
+      url: 'https://www.linkedin.com/in/oscar-robert-besle-0b7269171/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
-    },
+
     {
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/0ckapom',
     },
   ],
 

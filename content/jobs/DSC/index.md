@@ -1,12 +1,11 @@
 ---
 date: '2020-09-21'
-title: 'Member'
-company: 'DSV - SVVV'
-location: remote
-range: 'Sep 2020 - Present'
-url: 'https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/'
+title: 'Student Job'
+company: 'Scopelec'
+location: 'on site'
+range: 'Aug 2020'
+url: 'https://www.scopelec-usages-et-services.fr/'
 ---
 
-- Grown knowledge in a peer-to-peer learning environment.
-- Build solutions for local businesses and the community.
-- Attained several technical workshops.
+- fiel team coordination
+- customer relation

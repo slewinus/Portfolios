@@ -1,15 +1,14 @@
 ---
 date: '4'
-title: 'AI Face Landmark Detection'
-cover: 'face-landmark.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
-external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
+title: 'NAS monitoring'
+cover: 'grafana.png'
+github: 'https://github.com/slewinus/NAS_MONITORING'
 tech:
-  - TensorFlow.JS
-  - React
+  - Grafana
+  - Docker
+  - Docker-compose
+  - Prometheus
 showInProjects: true
 ---
 
-Facial landmark recognition allows you to detect a number of different points on your face that together make up your eyes, mouth, ears, nose and so on.
-
-Inspired by Nicholas Renotte's [Youtube Tutorial](https://www.youtube.com/watch?v=7lXYGDVHUNw).
+NAS monitoring lets you see in real time & interactively how your Nas (or other equipment) is using its resources.

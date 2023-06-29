@@ -1,22 +1,17 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'me.png'
 skills:
   - Coding
-  - Reading
-  - Painting
+  - Pentest
+  - Fortinet Solutions
+  - IoT
   - Crafting
   - Problem Solving
-  - Team Management
-  - Mentoring
+  - Open minded
+  - Analysis
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
-
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
-
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
-
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
+I was born on April 30, 2003, in Saint-Cloud, a suburb of Paris. At a young age, I started to be interested in cutting-edge technology and how they could revolutionize our world. Thanks to forums and documentation, I learned different programming languages such as Python, HTML/CSS and IoT. I got seriously interested in computer networks and I wanted to understand how it was possible to secure them. Quickly I started to work in this field and at my 18th birthday I created my own company.
 
 Here are a few of the other activities that I love to do!
