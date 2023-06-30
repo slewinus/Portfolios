@@ -1,7 +1,7 @@
 ---
 title: 'Hello, my name is'
 name: 'Oscar Robert-Besle'
-subtitle: 'Passionate about changing the world. '
+subtitle: 'Student in Cloud & Cybersecurity '
 buttonText: 'Get In Touch'
 ---
 
