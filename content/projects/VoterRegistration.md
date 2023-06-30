@@ -1,7 +1,7 @@
 ---
 date: '2021-06-01'
 title: 'Cloud Computing'
-github: 'https://github.com/yashitanamdeo/Voter-Registration-WebApp'
+github: 'https://github.com/slewinus/AlarmClock'
 tech:
   - HTML
   - CSS

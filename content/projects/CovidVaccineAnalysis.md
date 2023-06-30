@@ -1,8 +1,7 @@
 ---
 date: '2021-05-15'
 title: 'Covid-19 Vaccine Analysis'
-github: 'https://github.com/yashitanamdeo/Covid19_Vaccine_Analysis'
-external: 'https://github.com/yashitanamdeo/Covid19_Vaccine_Analysis/blob/main/Covid19_Vaccine_Analysis.ipynb'
+github: 'https://github.com/slewinus/AlarmClock'
 tech:
   - Python
   - Numpy
