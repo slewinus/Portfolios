@@ -2,6 +2,7 @@
 date: '2021-06-01'
 title: 'Cloud Computing'
 github: 'https://github.com/slewinus/AlarmClock'
+external: ''
 tech:
   - HTML
   - CSS

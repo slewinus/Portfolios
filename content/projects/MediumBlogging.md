@@ -2,6 +2,7 @@
 date: '2021-05-23'
 title: 'Equinox'
 github: 'https://github.com/slewinus/AlarmClock'
+external: ''
 tech:
   - HTML
   - CSS

@@ -2,6 +2,7 @@
 date: '2021-05-15'
 title: 'Covid-19 Vaccine Analysis'
 github: 'https://github.com/slewinus/AlarmClock'
+external: ''
 tech:
   - Python
   - Numpy

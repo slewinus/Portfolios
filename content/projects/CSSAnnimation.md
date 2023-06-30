@@ -1,7 +1,8 @@
 ---
 date: '2021-05-31'
 title: 'CSS Animation WebApp'
-github: 'https://github.com/slewinus/AlarmClock''
+github: 'https://github.com/slewinus/AlarmClock'
+external: ''
 tech:
   - HTML
   - CSS

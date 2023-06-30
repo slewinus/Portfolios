@@ -2,6 +2,7 @@
 date: '2021-05-21'
 title: '365 Entertainment Movie WebApp'
 github: 'https://github.com/slewinus/AlarmClock'
+external: ''
 tech:
   - HTML
   - CSS

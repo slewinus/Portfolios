@@ -1,7 +1,8 @@
 ---
 date: '2021-04-18'
 title: 'Whatsapp Chat Analysis'
-github: 'https://github.com/slewinus/AlarmClock'ipynb'
+github: 'https://github.com/slewinus/AlarmClock'
+external: ''
 tech:
   - Python
   - Regex
