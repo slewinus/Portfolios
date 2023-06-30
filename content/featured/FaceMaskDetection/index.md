@@ -2,7 +2,7 @@
 date: '3'
 title: 'Geocoding'
 cover: 'geo.jpeg'
-github: 'https://github.com/yashitanamdeo/Realtime-Face-Mask-Detection'
+github: 'https://github.com/slewinus/geocoding'
 tech:
   - Python
   - HTML/CSS
